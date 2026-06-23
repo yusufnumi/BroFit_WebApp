@@ -1,0 +1,54 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What are your operating hours?",
+      "answer": "BroFit is open Monday through Friday from 5:00 AM to 11:00 PM, Saturday from 6:00 AM to 10:00 PM, and Sunday from 7:00 AM to 9:00 PM. Holiday hours may vary."
+    },
+    {
+      "id": 2,
+      "question": "How do I cancel or change my membership?",
+      "answer": "You can cancel or modify your membership by visiting your Dashboard and clicking on 'Manage Membership'. Cancellations require 30 days notice. You can also visit our front desk for assistance."
+    },
+    {
+      "id": 3,
+      "question": "Can I bring a guest?",
+      "answer": "Yes! Depending on your membership plan, you receive guest passes each month. Starter members get 2 passes, Popular members get 5 passes, and Premium members enjoy unlimited guest passes."
+    },
+    {
+      "id": 4,
+      "question": "Do I need to book classes in advance?",
+      "answer": "We recommend booking classes at least 24 hours in advance to secure your spot, especially for popular classes. You can book through your Dashboard or our mobile app."
+    },
+    {
+      "id": 5,
+      "question": "What if I need to cancel a booked class?",
+      "answer": "You can cancel a booked class up to 2 hours before the start time without penalty. Late cancellations or no-shows may result in temporary booking restrictions."
+    },
+    {
+      "id": 6,
+      "question": "Is personal training included in membership?",
+      "answer": "A complimentary fitness assessment is included with all memberships. Popular members receive 1 free personal training session, while Premium members receive 4 sessions. Additional sessions can be purchased separately."
+    },
+    {
+      "id": 7,
+      "question": "Do you offer student or senior discounts?",
+      "answer": "Yes! We offer a 15% discount for students with valid ID and a 20% discount for seniors (65+). Please present your ID at the front desk when signing up."
+    },
+    {
+      "id": 8,
+      "question": "What should I bring to my first visit?",
+      "answer": "Bring comfortable workout clothes, athletic shoes, a water bottle, and a towel. We provide lockers, showers, and basic toiletries. Don't forget your membership card or app!"
+    },
+    {
+      "id": 9,
+      "question": "Is there parking available?",
+      "answer": "Yes, we have a large parking lot with free parking for all members. Premium members also get access to reserved spots near the entrance."
+    },
+    {
+      "id": 10,
+      "question": "Do you have a mobile app?",
+      "answer": "Yes! The BroFit app is available for iOS and Android. You can book classes, track workouts, view your membership details, and connect with trainers all from your phone."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "specialty": "Yoga & Meditation",
+      "experience": 8,
+      "bio": "Sarah is a certified yoga instructor with over 8 years of experience. She specializes in Vinyasa and Restorative yoga, helping students find balance between strength and relaxation.",
+      "certifications": [
+        "RYT-500 Yoga Alliance",
+        "Meditation Teacher Training",
+        "Prenatal Yoga Certified"
+      ],
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop&crop=face"
+    },
+    {
+      "id": 2,
+      "name": "David Goggins",
+      "specialty": "Cycling & Cardio",
+      "experience": 6,
+      "bio": "David brings energy and motivation to every cycling class. His favorite saying is 'They dont know me son.'.",
+      "certifications": [
+        "Spinning® Certified",
+        "ACE Personal Trainer",
+        "CPR/AED Certified"
+      ],
+      "image": "/src/assets/david_goggins.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sara Saffari",
+      "specialty": "Pilates & Core Training",
+      "experience": 10,
+      "bio": "Emma discovered Pilates during her recovery from a sports injury and has been passionate about teaching it ever since. She focuses on proper form and injury prevention.",
+      "certifications": [
+        "STOTT PILATES® Certified",
+        "Reformer Specialist",
+        "Injury Rehabilitation"
+      ],
+      "image": "/src/assets/Sara_Saffari_Quotes.webp"
+    },
+    {
+      "id": 4,
+      "name": "Carlos Martinez",
+      "specialty": "Zumba & Dance Fitness",
+      "experience": 7,
+      "bio": "Carlos combines his Latin dance background with fitness expertise to create fun, high-energy classes. His infectious enthusiasm makes every class feel like a party.",
+      "certifications": [
+        "Zumba® Licensed Instructor",
+        "AFAA Group Fitness",
+        "Salsa Dance Certified"
+      ],
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop&crop=face"
+    },
+    {
+      "id": 5,
+      "name": "Jake Thompson",
+      "specialty": "Strength & HIIT",
+      "experience": 9,
+      "bio": "Jake is a former competitive athlete turned fitness coach. He specializes in strength training and high-intensity workouts designed to push your limits safely.",
+      "certifications": [
+        "NSCA-CSCS",
+        "CrossFit Level 2 Trainer",
+        "Sports Nutrition Specialist"
+      ],
+      "image": "/src/assets/jake_thompson.png"
+    }
+  ]
+}

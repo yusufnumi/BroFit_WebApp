@@ -1,0 +1,64 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "duration": 3,
+      "durationUnit": "months",
+      "price": 89.99,
+      "pricePerMonth": 29.99,
+      "features": [
+        "Full gym access",
+        "Locker room access",
+        "Free fitness assessment",
+        "Access to mobile app",
+        "2 Guest passes"
+      ],
+      "highlighted": false,
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "name": "Popular",
+      "duration": 6,
+      "durationUnit": "months",
+      "price": 149.99,
+      "pricePerMonth": 24.99,
+      "features": [
+        "Full gym access",
+        "Locker room access",
+        "Free fitness assessment",
+        "Access to mobile app",
+        "5 Guest passes",
+        "Unlimited group classes",
+        "1 Personal training session",
+        "Nutrition consultation"
+      ],
+      "highlighted": true,
+      "color": "orange"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "duration": 12,
+      "durationUnit": "months",
+      "price": 239.99,
+      "pricePerMonth": 19.99,
+      "features": [
+        "Full gym access",
+        "Locker room access",
+        "Free fitness assessment",
+        "Access to mobile app",
+        "Unlimited guest passes",
+        "Unlimited group classes",
+        "4 Personal training sessions",
+        "Monthly nutrition consultation",
+        "Spa & sauna access",
+        "Priority class booking",
+        "Free parking"
+      ],
+      "highlighted": false,
+      "color": "purple"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "facilities": [
+    {
+      "id": 1,
+      "name": "Weight Training Area",
+      "description": "State-of-the-art weight room featuring free weights, cable machines, and power racks for all your strength training needs.",
+      "features": [
+        "Olympic lifting platforms",
+        "Dumbbells 5-150 lbs",
+        "Cable crossover machines",
+        "Power racks with safety bars"
+      ],
+      "icon": "dumbbell"
+    },
+    {
+      "id": 2,
+      "name": "Cardio Zone",
+      "description": "Extensive cardio area with the latest treadmills, ellipticals, bikes, and rowing machines.",
+      "features": [
+        "50+ cardio machines",
+        "Personal TV screens",
+        "Heart rate monitoring",
+        "Virtual training programs"
+      ],
+      "icon": "heart-pulse"
+    },
+    {
+      "id": 3,
+      "name": "Group Fitness Studios",
+      "description": "Two spacious studios equipped for yoga, Pilates, cycling, dance, and HIIT classes.",
+      "features": [
+        "Premium sound system",
+        "Mirrored walls",
+        "Sprung floors",
+        "Climate controlled"
+      ],
+      "icon": "users"
+    },
+    {
+      "id": 4,
+      "name": "Indoor Cycling Studio",
+      "description": "Dedicated spinning studio with 30 bikes and immersive lighting and sound.",
+      "features": [
+        "30 premium bikes",
+        "Performance tracking",
+        "Surround sound",
+        "Mood lighting"
+      ],
+      "icon": "bike"
+    },
+    {
+      "id": 5,
+      "name": "Swimming Pool",
+      "description": "25-meter lap pool perfect for swimming workouts and aqua fitness classes.",
+      "features": [
+        "Heated pool",
+        "6 swimming lanes",
+        "Aqua fitness equipment",
+        "Lifeguard on duty"
+      ],
+      "icon": "waves"
+    },
+    {
+      "id": 6,
+      "name": "Spa & Recovery",
+      "description": "Relax and recover in our wellness area featuring sauna, steam room, and massage services.",
+      "features": [
+        "Finnish sauna",
+        "Steam room",
+        "Cold plunge pool",
+        "Massage therapy"
+      ],
+      "icon": "sparkles"
+    },
+    {
+      "id": 7,
+      "name": "Locker Rooms",
+      "description": "Modern locker rooms with private showers, vanity areas, and secure storage.",
+      "features": [
+        "Private showers",
+        "Hair dryers",
+        "Towel service",
+        "Secure lockers"
+      ],
+      "icon": "lock"
+    },
+    {
+      "id": 8,
+      "name": "Nutrition Bar",
+      "description": "Fuel your workout with our healthy smoothies, protein shakes, and snacks.",
+      "features": [
+        "Fresh smoothies",
+        "Protein shakes",
+        "Healthy snacks",
+        "Supplements available"
+      ],
+      "icon": "cup-soda"
+    }
+  ]
+}
